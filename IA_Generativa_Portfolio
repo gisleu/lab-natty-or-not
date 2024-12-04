@@ -1,0 +1,23 @@
+# IA Generativa: Criando Conteúdos Criativos e Realistas
+
+Este repositório faz parte do desafio **#LabDIONattyOrNot** da DIO. O objetivo é explorar IAs generativas para criar projetos criativos e incrementar meu portfólio.
+
+## Objetivos
+- **Explorar IAs Generativas:** Aplicar modelos de IA como GPT ou ferramentas de geração de imagens.
+- **Criar um portfólio:** Desenvolver projetos com aplicações práticas.
+- **Efeito de Rede:** Compartilhar resultados nas redes sociais com a hashtag #LabDIONattyOrNot.
+
+## Estrutura do Projeto
+- **`/src`:** Contém o código do projeto.
+- **`/data`:** Dados utilizados nos experimentos.
+- **`/docs`:** Documentação técnica e insights.
+  
+## Tecnologias Utilizadas
+- Python
+- Bibliotecas: `openai`, `transformers`, `torch`
+- Ferramentas de visualização: Matplotlib, Seaborn
+
+## Como Rodar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/IA_Generativa_Portfolio.git
